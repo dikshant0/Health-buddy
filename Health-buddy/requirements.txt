@@ -1,0 +1,8 @@
+#libraries used
+sys
+requests
+re
+pandas
+os
+random
+csv
